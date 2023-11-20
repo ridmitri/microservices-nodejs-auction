@@ -1,6 +1,4 @@
-#  Microservices with Node JS and React
-
-[Course page](https://www.udemy.com/course/microservices-with-node-js-and-react/)
+#  Microservices with Node JS and React Exercise
 
 ## Development 
 
